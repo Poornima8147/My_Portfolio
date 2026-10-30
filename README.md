@@ -4,7 +4,7 @@
 
 I am Poornima, a B.Tech student specializing in Artificial Intelligence and Machine Learning at REVA University, Bengaluru.
 
-I am interested in programming, web development, artificial intelligence, and exploring new technologies.
+I am interested in programming, web development, artificial intelligence, and exploring new technologies. I enjoy creating websites, learning new concepts, and improving my technical skills.
 
 ## Education
 
@@ -25,11 +25,10 @@ I am interested in programming, web development, artificial intelligence, and ex
 
 ## Technologies Used
 
-- React.js
-- JavaScript
+This portfolio website is developed using:
+
 - HTML5
 - CSS3
-- Vite
 
 ## Projects
 
@@ -38,14 +37,12 @@ I am interested in programming, web development, artificial intelligence, and ex
 - [IPL Ticket Booking Website](https://github.com/Poornima8147/ipl-ticket-booking)
 - [2D Graphic Editor](https://github.com/Poornima8147/2D-graphic-editor)
 
-
 ## Tools Used
 
 - Visual Studio Code
 - Git
 - GitHub
 - Vercel
-- MySQL
 - Google Antigravity
 
 ## Currently Learning
@@ -65,21 +62,21 @@ I am interested in programming, web development, artificial intelligence, and ex
 - Build more practical and real-world projects.
 - Explore Artificial Intelligence and Machine Learning.
 - Learn new technologies and development tools.
+- Improve my frontend development skills.
 - Gain hands-on experience through projects.
 - Prepare for technical internships and future career opportunities.
 
-
 ## Contact
 
-- GitHub: https://github.com/Poornima8147
-- LinkedIn: https://linkedin.com/in/poornima-a-80133b384
-- Portfolio: https://my-portfolio-rho-ruddy-30.vercel.app
+- GitHub: [Poornima8147](https://github.com/Poornima8147)
+- LinkedIn: [Poornima A](https://linkedin.com/in/poornima-a-80133b384)
+- Portfolio: Add your new website link after deployment.
 
 ## Live Portfolio
 
-Visit my personal portfolio to explore my skills, education, and projects.
+My personal portfolio website is currently being developed using HTML and CSS.
 
-https://my-portfolio-rho-ruddy-30.vercel.app
+The live website link will be updated after deployment.
 
 ## Thank You
 
